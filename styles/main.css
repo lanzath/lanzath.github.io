@@ -88,6 +88,13 @@ header {
     color: rgba(112, 89, 193, 0.89);    
 }
 
+.col-md-12>h1 {
+    font-size: 32px;
+    line-height: 32px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
 #links-footer {
     margin-top: 40px;
     border-top: 1px solid rgba(65, 65, 65, 0.342);
@@ -104,11 +111,12 @@ header {
     background-color: rgba(27, 7, 49, 0.336);
     margin-bottom: 12px;
     border-radius: 10%;
+    width: 180px;
     transition: 300ms ease;
 }
 
 .card>img {
-  min-height: 184px;
+  min-height: 124px;
 }
 
 .card:hover {
