@@ -85,7 +85,7 @@ header {
 }
 
 #wrapper a:hover {
-    color: rgb(113, 89, 193);    
+    color: rgba(112, 89, 193, 0.89);    
 }
 
 #links-footer {
