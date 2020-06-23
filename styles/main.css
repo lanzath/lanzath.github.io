@@ -108,10 +108,11 @@ header {
 
 /*==== CARDS ====*/
 .card {
-    background-color: rgba(27, 7, 49, 0.336);
+    background-color: #1c1e25;
     margin-bottom: 12px;
     border-radius: 10%;
     width: 180px;
+    border: 1px double white;
     transition: 300ms ease;
 }
 
